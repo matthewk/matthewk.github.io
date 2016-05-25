@@ -3,7 +3,7 @@ title: IAMonoid
 email: matt@wiredthing.com
 description: Wandering cloud of thoughts in a functional world
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://iamonoid.com" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 enable_retina: false
 permalink: :title
 nav_list:
