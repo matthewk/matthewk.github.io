@@ -1,11 +1,11 @@
 ---
 layout: author
 title: Author
-permalink: author/michelle/
+permalink: author/matt/
 feature_image: feature-sea
-author_avatar: michelle
-author_name: Michelle Jones
-title: Michelle Jones
+author_avatar: matt
+author_name: Matt Knights
+title: Matt Knights
 fav_posts:
   post_1 : ['12 Reasons to quite your job','ten-reasons-to-travel-the-world/', 'Ask yourself, why not? What is the number one reason you wouldn’t. If the reason you get back is fear, you should just do it.']
   post_2 : ['CSS with Superpowers', 'css-with-superpowers/', 'Sass is completely compatible with all versions of CSS. We take this compatibility seriously, so that you can seamlessly use any available CSS libraries.']
@@ -14,8 +14,8 @@ fav_posts:
 
 ---
 
-# Michelle Jones
+# Matt Knigts
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis necessitatibus repellat et similique, assumenda dolor possimus sunt repellendus ratione quas nihil expedita maiores, ex id odio molestiae ipsam officiis magni!
+Entrepreneurial director experienced in technical architecture, digital strategy, e-commerce and mobile markets with 22 years industry experience.  Excellent business, managerial, team and project skills.  Excellent software design and systems architecture skills.  Recent experience has focused on business infrastructure transition, high volume distributed frameworks containerised cloud architectures.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis necessitatibus repellat et similique, assumenda dolor possimus sunt repellendus ratione quas nihil expedita maiores, ex id odio molestiae ipsam officiis magni!
+Specialties: Company Leadership, Technical & Business Strategy, Getting Real Software, Systems Design and Architecture, e/m-commerce, Agile Modelling, Leadership Development Planning
